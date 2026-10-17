@@ -1,0 +1,15 @@
+{
+  "name": "add-domain",
+  "description": "Agent skills for building launch-ready small-business websites.",
+  "owner": {
+    "name": "Add Domain",
+    "url": "https://www.adddomain.net"
+  },
+  "plugins": [
+    {
+      "name": "add-domain-websites",
+      "source": "./",
+      "description": "Launch-ready small-business websites from the first brief, with an optional own domain."
+    }
+  ]
+}
