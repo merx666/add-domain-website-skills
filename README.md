@@ -43,6 +43,12 @@ A document, a native-only app, a private internal tool, or a local mockup does n
 4. Checks what customers notice: phone layout, tap targets, contrast, image weight, titles, Open Graph previews, `LocalBusiness` structured data.
 5. Reports honestly what is previewed, published, connected and paid, then hands over a note the owner can keep.
 
+## Guides
+
+- [Connect a custom domain to a ChatGPT Site](https://www.adddomain.net/guide/chatgpt-sites-custom-domain)
+- [Connect a custom domain to a Google AI Studio app](https://www.adddomain.net/guide/google-ai-studio-own-domain)
+- [Checklist before launching a website publicly](https://www.adddomain.net/guide/before-public-launch)
+
 ## Files
 
 - [skills/frontend-business-websites/SKILL.md](https://github.com/vitaliiphangan-code/add-domain-website-skills/blob/main/skills/frontend-business-websites/SKILL.md) — the skill (raw: https://raw.githubusercontent.com/vitaliiphangan-code/add-domain-website-skills/main/skills/frontend-business-websites/SKILL.md)
